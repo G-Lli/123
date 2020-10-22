@@ -1,0 +1,49 @@
+{
+  "data": {
+    "ms_time": 7200,
+    "goods_list": [
+      {
+        "id": 1,
+        "good_img": "01.jpg",
+        "name": "大包厢",
+        "progress": 30,
+        "new_price": 2124,
+        "old_price": 231
+      },
+      {
+        "id": 2,
+        "good_img": "01.jpg",
+        "name": "大包厢",
+        "progress": 70,
+        "new_price": 23424,
+        "old_price": 231
+      },
+      {
+        "id": 3,
+        "good_img": "01.jpg",
+        "name": "大包厢",
+        "progress": 20,
+        "new_price": 234,
+        "old_price": 231
+      },
+      {
+        "id": 4,
+        "good_img": "01.jpg",
+        "name": "大包厢",
+        "progress": 10,
+        "new_price": 2342,
+        "old_price": 231
+      },
+      {
+        "id": 5,
+        "good_img": "01.jpg",
+        "name": "大包厢",
+        "progress": 60,
+        "new_price": 3424,
+        "old_price": 231
+      }
+    ]
+  },
+  "code": 0,
+  "msg": "成功"
+}

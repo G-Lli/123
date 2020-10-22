@@ -1,0 +1,40 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 2124,
+      "saleNum": 1998
+    },
+    {
+      "id": 2,
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 2124,
+      "saleNum": 1998
+    },
+    {
+      "id": 3,
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 2124,
+      "saleNum": 1998
+    },
+    {
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 2124,
+      "saleNum": 1998
+    },
+    {
+      "id": 5,
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 2124,
+      "saleNum": 1998
+    }
+  ],
+  "code": 0,
+  "msg": "成功"
+}

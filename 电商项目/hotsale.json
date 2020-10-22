@@ -1,0 +1,57 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 2124,
+      "old_price": 231,
+      "conmentNum": 2999,
+      "collectNum": 3994,
+      "saleNum": 1998
+    },
+    {
+      "id": 2,
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 2124,
+      "old_price": 1111,
+      "conmentNum": 2999,
+      "collectNum": 3994,
+      "saleNum": 1998
+    },
+    {
+      "id": 3,
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 2124,
+      "old_price": 2321,
+      "conmentNum": 2999,
+      "collectNum": 3994,
+      "saleNum": 1998
+    },
+    {
+      "id": 4,
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 0,
+      "old_price": 2121,
+      "conmentNum": 2999,
+      "collectNum": 3994,
+      "saleNum": 1998
+    },
+    {
+      "id": 5,
+      "good_img": "01.jpg",
+      "name": "大包厢",
+      "new_price": 2124,
+      "old_price": 231,
+      "conmentNum": 2999,
+      "collectNum": 3994,
+      "saleNum": 1998
+    }
+],
+  "code": 0,
+  "msg": "成功"
+
+}

@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "banner_img": "02.jpg"
+    },
+    {
+      "id": 2,
+      "banner_img": "03.jpg"
+    },
+    {
+      "id": 3,
+      "banner_img": "04.jpg"
+    }
+  ],
+  "code": 0,
+  "msg": "请求成功"
+}

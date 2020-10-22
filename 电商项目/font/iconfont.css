@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1590733694293'); /* IE9 */
+  src: url('iconfont.eot?t=1590733694293#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPUAAsAAAAAB+AAAAOFAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDSIMZATYCJAMMCwgABCAFhG0HOBvhBhHVmxvJfiTGtmmyTC235CNNTRAgbnZpAutgZvomJuVNJABWpxZOIcgA9cGKd/zyHCe/rhzv+TyX07urxOe3LJextu6lR70A44ACHXOChHGBBOR9wIbuZzUEYCGIBESxEuWqoaMwOwlAtGvdsjF6xopqKBToCMwVIxViEiZ0bbR2DpgYfF+8Jk3ooGGSmD0rtSjejELPeNZIDvo/iHoegWw6N8CPAwkkAApEg0pvLWQUTUBiUbWqOdOMQqBNFfj/P5BqevNG/3gaCDNmvgMAMRjT4BmOAAKeNYqhAdc/DsyADowFThHL45VMSEdXuwhnZxePvtefVr/2pJrxrIbtec3qYpDn7OuXz0dOt240ChwwSjUblNl0z5WgWnGrNi3eH7ndVvOqzbbbd/Zin8yFht8Go9i2a+Z+USvWeM1YGN90h5G0xghadS1w/vXc7baGtvHVr18f1FQ2xqhhDK19ffww02CDbmMZc63StSEtx66G6tNnz1q2bIVXjRn+XnLw2uDPjc4oR0d1Vp3x1Gc4cSJGEb7dWVVhDnZ6hdDCietePHHab2oV17aNR0yZA/Ez0i+ogMcfq/3bH/hl8aeh7TMLFDdXyypiebFrRcyAuStU6TtRJaPsRjQq0L5XneRHoYXyVTwR/vNX2ZKZRzdGlexSx7VwoRsFSjWxL6oz/eW8abPnTytZqtzuC3bvSZP2lDu/u1ypktPnzb7yY0jfqnCrcwXnrC04u1evOQWrV52T/23fIdVWHnYb5fazX7+ezWs6N68+auSodxFK5NejEQD/l8h7sjH8H6SQg/7ib3D1KHGroXO+r7pVAXDr27kBgbybH/R79An4Z7KOFUpTmDapFKkjNUhpML0RMYoFHX+qGMCNe8P1np3zQaDjmUDDjkBIdCJIxUqACSsZMKNTEBbiKTneijtdkAhlD8QxHCBwYSM0nDgIiQvnScW6CxNevIUZFyFhoYZwn9EKGyVaq6KMWtCB+UOydHjbISosvGF4V81pRcB+IfcUgGWc84krHshT9OmfsIp48EwNdlgPayU4mTJaGaPIuU2Tr3rSaKkNiqKMWtAB5g8kS4f3aosqfP6G4V01N9Cqwi/knhoHFkbmDuRVe3Si3co5/RNWRDzgmRqwgxurFSXgrG6W0cpIHBA+Nyaq5rtqx+X17f3WARbMRaXQhBQK2VY+l2aacuoxDQMAAAA=') format('woff2'),
+  url('iconfont.woff?t=1590733694293') format('woff'),
+  url('iconfont.ttf?t=1590733694293') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1590733694293#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ktv:before {
+  content: "\e600";
+}
+
+.icon-daojishi:before {
+  content: "\e660";
+}
+
